@@ -1,0 +1,12 @@
+
+> Datetimechecker@1.0.391 test /home/abs
+> mocha test/**/*.js
+
+
+
+  datetime
+    ✓ Check if the current date is correct
+
+
+  1 passing (16ms)
+
